@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "gh-pages": "^3.2.3",
+    "minimist": "^1.2.5",
     "sirv-cli": "^1.0.0"
   }
 }
