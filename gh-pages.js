@@ -4,7 +4,7 @@ ghpages.publish(
   "public", // path to public directory
   {
     branch: "gh-pages",
-    repo: "https://github.com/scrof90/fantasy-battles/tree/gh-pages", // Update to point to your repository
+    repo: "https://github.com/scrof90/fantasy-battles", // Update to point to your repository
     user: {
       name: "Andrei", // update to use your name
       email: "asknyshev@gmail.com", // Update to use your email
